@@ -1,0 +1,12 @@
+[x] funkcija za dodavanje novih polja (da se dodaju nove vjezbe)
+// modifikovati:
+- dodati button 'edit' i 'clear all' 
+[x] fja za prebacivanje sadrzaja polja u listu s desne strane
+[x] fja koja generise tu listu, zavisno od broja vjezbi
+[] fja koja postavlja broj rundi
+[] fja koja postavlja vrijeme (timer) + dodati 3 sekunde na prvo pocinjanje vremena
+[] fja koja postavlja vrijeme za odmor (opciono)
+[] buttons: start, pause, stop/reset
+
+ideje:
+[] dok tece vrijeme, highlightovati vjezbu koja se trenutno radi

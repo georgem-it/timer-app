@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+#timer {
+    font-size: 140px;
+}
+
+#list {
+    font-size: 60px;
+}
+
+#round {
+    font-size: 80px;
+}
+
+#central-container {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border: 2px solid blue;
+    padding: 30px;
+    align-items: center;
+    justify-content: center;
+}
